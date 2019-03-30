@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/youfanInfoInService/youfanInfoInService.iml" filepath="$PROJECT_DIR$/youfanInfoInService/youfanInfoInService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youfanPortraitmain.iml" filepath="$PROJECT_DIR$/youfanPortraitmain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youfanRegiterCenter/youfanRegiterCenter.iml" filepath="$PROJECT_DIR$/youfanRegiterCenter/youfanRegiterCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youfanSearchInfo/youfanSearchInfo.iml" filepath="$PROJECT_DIR$/youfanSearchInfo/youfanSearchInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youfananalySrv/youfananalySrv.iml" filepath="$PROJECT_DIR$/youfananalySrv/youfananalySrv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youfancommon/youfancommon.iml" filepath="$PROJECT_DIR$/youfancommon/youfancommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youfanviewService/youfanviewService.iml" filepath="$PROJECT_DIR$/youfanviewService/youfanviewService.iml" />
+    </modules>
+  </component>
+</project>
